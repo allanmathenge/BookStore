@@ -1,0 +1,38 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+}
+
+.banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.banner .swiper-slide:nth-child(2n) {
+    background-image: url("../assets/books/gray.jpg");
+}
+
+.banner .swiper-slide:nth-child(3n) {
+    background-image: url("../assets/books/laws.jpg");
+}
+
+.banner .swiper-slide:nth-child(4n) {
+    background-image: url("../assets/books/pieces.jpg");
+}
+
+.banner .swiper-slide:nth-child(5n) {
+    background-image: url("../assets/books/sapiens.jpg");
+}
+
+.banner .swiper-slide:nth-child(6n) {
+    background-image: url("../assets/books/success.jpg");
+}
+
+.banner .swiper-slide:nth-child(6n) {
+    background-image: url("../assets/books/time.jpg");
+}

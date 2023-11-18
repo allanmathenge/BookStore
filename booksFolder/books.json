@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Laws of Human Nature",
+      "Author": "Robert Green",
+      "imageURL": "../src/assets/books/laws.jpg",
+      "Prices": "$21"
+    },
+    {
+      "id": 2,
+      "title": "The Philosophy of Successful Living",
+      "Author": "Jim Robin",
+      "imageURL": "../src/assets/books/success.jpg",
+      "Prices": "$24"
+    },
+    {
+      "id": 3,
+      "title": "Fifty Shades Of Gray",
+      "Author": "E L James",
+      "imageURL": "../src/assets/books/gray.jpg",
+      "Prices": "$27"
+    },
+    {
+      "id": 4,
+      "title": "The Brief History of Humankind",
+      "Author": "Yuval Noah Harari",
+      "imageURL": "../src/assets/books/sapiens.jpg",
+      "Prices": "$32"
+    },
+    {
+      "id": 5,
+      "title": "The Brief History of Time",
+      "Author": "Stephen Hawking",
+      "imageURL": "../src/assets/books/time.jpg",
+      "Prices": "$14"
+    },
+    {
+      "id": 6,
+      "title": "The Pieces",
+      "Author": "Melissa Broda",
+      "imageURL": "../src/assets/books/pieces.jpg",
+      "Prices": "$19"
+    },
+    {
+      "id": 7,
+      "title": "Pieces",
+      "Author": "Melisa Broda",
+      "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649848581l/60435878.jpg",
+      "Prices": "20"
+    }
+  ]
+}
